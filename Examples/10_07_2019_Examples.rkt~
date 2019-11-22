@@ -1,0 +1,8 @@
+#lang racket
+
+
+;;; (define (generate_top n sym)
+;;;     (map (lambda (x) sym (range (+ (* 2) n) 1) ))
+)
+
+(foldl string-append "" '("3" "I" "C") '("5" "3" "S") )

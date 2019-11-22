@@ -1,0 +1,16 @@
+#lang racket
+
+(define (p n)
+
+  (cond
+    ((< n 0) "Negative")
+    ((= n 0) "Zero")
+    ((= n 1) "One")
+    ((= n 2) "Two")
+    (else "ETC")
+  )
+
+)
+
+
+(p 4)

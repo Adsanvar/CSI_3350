@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+        "racket": "/Applications/Racket/bin/racket",
+    
+    }
+}
